@@ -39,7 +39,7 @@
 
 <h3 align="center"> ⚡️ About Me ⚡️ </h3>
 <p align="center">
-  <a href="https://velog.io/@gyutato"><img src="https://img.shields.io/badge/-Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gyutato"/></a>&nbsp
+  <a href="https://bpthess.github.io/tech-blog/"><img src="https://img.shields.io/badge/-Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://bpthess.github.io/tech-blog/"/></a>&nbsp
   <a href="https://www.linkedin.com/in/gyuwon-lee-a23b921aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongmin-lee-5ab898202/"/></a>&nbsp
   <a href="mailto:gyuwonlee.olivia@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gyuwonlee.olivia@gmail.com"/></a>
 </p>
