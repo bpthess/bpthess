@@ -22,18 +22,18 @@
 
 <div align="center" >
 
-![codyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpthess&show_icons=true&theme=nightowl)
+![bpthess's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpthess&show_icons=true&theme=nightowl)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpthess&layout=compact&theme=nightowl)
 
 </div>
-
+https://bpthess.github.io/tech-blog/
 
 <h3 align="center">✏️ Blog ✏️</h3>
 
 <div align="center" style="text-align:center">
   
-[![tech-blog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bpthess)](https://velog-readme-stats.vercel.app/api/redirect?name=bpthess)
+[![tech-blog's GitHub stats](https://bpthess.github.io/tech-blog/)](https://velog-readme-stats.vercel.app/api/redirect?name=bpthess)
 
 </div>
 
