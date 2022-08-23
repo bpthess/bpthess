@@ -10,10 +10,10 @@
 
 <div align="center" >
 
-![bpthess's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpthess&show_icons=true&theme=nightowl)
-
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpthess&layout=compact&theme=nightowl)
 
+  
 </div>
 
 <h3 align="center">✏️ Blog ✏️</h3>
