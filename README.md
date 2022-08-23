@@ -1,6 +1,6 @@
 ### 😺이태용의 깃헙😺
 ![seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpthess&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bpthess)](https://solved.ac/sy9815/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bpthess)](https://solved.ac/bpthess/)
 
 ## 🖥 Skills 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
