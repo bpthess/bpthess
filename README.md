@@ -11,8 +11,6 @@
 
 <br><br>
 <h3 align="center">✏️ Blog ✏️</h3>  
-
-<br><br>
 <div align="center" style="text-align:center">  
 
 ![email](https://img.shields.io/badge/Email-bpthess@naver.com-red.svg)
