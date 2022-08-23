@@ -27,11 +27,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpthess&layout=compact&theme=nightowl)
 
 </div>
-https://bpthess.github.io/tech-blog/
 
 <h3 align="center">✏️ Blog ✏️</h3>
 
 <div align="center" style="text-align:center">
+  ![email](https://img.shields.io/badge/Email-bpthess@naver.com-red.svg)
+[![Blog](https://img.shields.io/badge/Blog-bpthess.github.io-yellowgreen.svg?style=flat)](https://sehajyang.github.io/) 
+[![StackShare](https://img.shields.io/badge/Tech-StackShare-lightgray.svg?style=flat)](https://stackshare.io/sehajyang/my-stack)
+  
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 
   
