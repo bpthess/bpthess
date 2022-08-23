@@ -9,7 +9,6 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpthess&layout=compact&theme=nightowl)
 
-<br>
 <h3 align="center">✏️ Blog ✏️</h3>  
 <div align="center" style="text-align:center">  
 
