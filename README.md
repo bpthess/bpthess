@@ -22,9 +22,9 @@
 
 <div align="center" >
 
-![codyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjyoung428&show_icons=true&theme=nightowl)
+![codyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpthess&show_icons=true&theme=nightowl)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjyoung428&layout=compact&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpthess&layout=compact&theme=nightowl)
 
 </div>
 
@@ -33,26 +33,7 @@
 
 <div align="center" style="text-align:center">
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gyutato)](https://velog-readme-stats.vercel.app/api/redirect?name=gyutato)
+[![tech-blog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bpthess)](https://velog-readme-stats.vercel.app/api/redirect?name=bpthess)
 
 </div>
 
-<h3 align="center"> ⚡️ About Me ⚡️ </h3>
-<p align="center">
-  <a href="https://bpthess.github.io/tech-blog/"><img src="https://img.shields.io/badge/-Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://bpthess.github.io/tech-blog/"/></a>&nbsp
-  <a href="https://www.linkedin.com/in/gyuwon-lee-a23b921aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongmin-lee-5ab898202/"/></a>&nbsp
-  <a href="mailto:gyuwonlee.olivia@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gyuwonlee.olivia@gmail.com"/></a>
-</p>
-
-
-<div align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp;
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp;
-    <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp;
-</div><br><br>
-
-<script src="https://gist.github.com/sijinyu/f636f8d9f6bba8bf819ed63392109e99.js"></script>
