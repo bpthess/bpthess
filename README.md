@@ -33,7 +33,7 @@ https://bpthess.github.io/tech-blog/
 
 <div align="center" style="text-align:center">
   
-[![tech-blog's GitHub stats](https://bpthess.github.io/tech-blog/)](https://velog-readme-stats.vercel.app/api/redirect?name=bpthess)
-
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 
+  
 </div>
 
