@@ -7,7 +7,7 @@
 <br><br>
 <div align="center" >
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpthess&layout=compact&theme=nightowl&title_color=0090f7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpthess&layout=compact&theme=nightowl&title_color=feb84d)
 
 <h3 align="center">✏️ About ✏️</h3>  
 <div align="center" style="text-align:center">  
