@@ -14,6 +14,7 @@
 
 ![email](https://img.shields.io/badge/Email-bpthess@naver.com-red.svg)
 [![Blog](https://img.shields.io/badge/Blog-bpthess.github.io-yellowgreen.svg?style=flat)](https://bpthess.github.io/tech-blog) 
+![notion](https://img.shields.io/badge/Notion-https://clover-globe-88b.notion.site/e8e987f128e2473a8d27e69b2a388682-#1b9ace.svg)
 
 </div>
 </div>
