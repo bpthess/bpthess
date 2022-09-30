@@ -1,6 +1,6 @@
 # Tech Stack
  
-<p herf="https://skillicons.dev">
+<p herf="https://skillicons.dev" style="text-align:center">
   <img src="https://skillicons.dev/icons?i=react,redux,styledcomponents,js,figma,git,&perline=6"/>
 </p>
 
