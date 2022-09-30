@@ -1,10 +1,9 @@
 # Tech Stack
  
-<p herf="https://skillicons.dev" style="text-align:center">
-  <img src="https://skillicons.dev/icons?i=react,redux,styledcomponents,js,figma,git,&perline=6"/>
+<p herf="https://skillicons.dev" style="text-align:center; display:block;">
+  <img src="https://skillicons.dev/icons?i=react,redux,styledcomponents,js,figma,git,&perline=6"/ style="text-align:center; display:block;>
 </p>
 
-<br><br>
 <div align="center" >
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpthess&layout=compact&theme=nightowl)
