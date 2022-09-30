@@ -1,7 +1,7 @@
 # Tech Stack
  
 <div herf="https://skillicons.dev" align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,styledcomponents,js,figma,git,&perline=6"/ style="">
+  <img src="https://skillicons.dev/icons?i=react,styledcomponents,js,ts,figma,git,&perline=6"/ style="">
 </div>
 
 <div align="center" >
