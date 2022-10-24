@@ -13,7 +13,7 @@
 <div align="center" style="text-align:center">  
 
 ![email](https://img.shields.io/badge/bpthess@naver.com-darkcyan.svg)
-[![Blog](https://img.shields.io/badge/Blog-1B9ACE.svg?style=flat)](https://bpthess.github.io/tech-blog)
+[![Blog](https://img.shields.io/badge/Blog-deepskyblue.svg?style=flat)](https://bpthess.github.io/tech-blog)
 
 </div>
 </div>
