@@ -12,7 +12,7 @@
 <h3 align="center">About ✨</h3>  
 <div align="center" style="text-align:center">  
 
-![email](https://img.shields.io/badge/Email-bpthess@naver.com-seagreen.svg)
+![email](https://img.shields.io/badge/bpthess@naver.com-darkcyan.svg)
 [![Blog](https://img.shields.io/badge/Blog-1B9ACE.svg?style=flat)](https://bpthess.github.io/tech-blog)
 
 </div>
