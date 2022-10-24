@@ -9,11 +9,6 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpthess&layout=compact&theme=nightowl)
 
-<h3 align="center">About ✨</h3>  
-<div align="center" style="text-align:center">  
-
-![email](https://img.shields.io/badge/bpthess@naver.com-darkcyan.svg)
-[![Blog](https://img.shields.io/badge/Blog-deepskyblue.svg?style=flat)](https://bpthess.github.io/tech-blog)
 
 </div>
 </div>
