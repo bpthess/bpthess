@@ -9,10 +9,10 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpthess&layout=compact&theme=nightowl)
 
-<h3 align="center">✏️ About ✏️</h3>  
+<h3 align="center">About ✨</h3>  
 <div align="center" style="text-align:center">  
 
-![email](https://img.shields.io/badge/Email-bpthess@naver.com-cadetblue.svg)
+![email](https://img.shields.io/badge/Email-bpthess@naver.com-seagreen.svg)
 [![Blog](https://img.shields.io/badge/Blog-1B9ACE.svg?style=flat)](https://bpthess.github.io/tech-blog)
 
 </div>
