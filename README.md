@@ -7,8 +7,8 @@
 <br><br>
 <div align="center" >
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpthess&layout=compact&theme=nightowl)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpthess&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airHalfSoundHalf&layout=compact&theme=nightowl)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airHalfSoundHalf&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
  
 </div>
 </div>
